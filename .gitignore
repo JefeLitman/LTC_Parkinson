@@ -133,3 +133,6 @@ dmypy.json
 
 # Drive folder
 drive/
+data/
+*.png
+*.zip
