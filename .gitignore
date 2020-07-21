@@ -136,3 +136,4 @@ drive/
 data/
 *.png
 *.zip
+*.tfrecord
